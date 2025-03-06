@@ -6,6 +6,7 @@
 3. List the letter you want to train on (Or type @ for the whole alphabet)
 4. Train!
 
+![carbon (1)](https://github.com/user-attachments/assets/b7830c5f-f04a-4456-bf84-a7534019801f)
 
 - At the moment the script does NOT have an exit condition therefore has to be forcibly terminated.
 
