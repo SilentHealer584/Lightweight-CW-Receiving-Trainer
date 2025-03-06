@@ -1,6 +1,6 @@
 # Lightweight CW Receiving Trainer
 
-| Alphabet      | Morse Equivalent  | Alphabet      | Morse Equivalent  |
+| Alphabet      | Morse             | Alphabet      | Morse             |
 | ------------- | ----------------- | ------------- | ----------------- |
 | A             | **.-**            | N             | **-.**            |
 | B             | **-...**          | O             | **---**           |
@@ -15,3 +15,16 @@
 | K             | **-.-**           | X             | **-..-**          |
 | L             | **.-..**          | Y             | **-.--**          |
 | M             | **--**            | Z             | **--..**          |
+
+| Numbers  | Morse
+| -------- |
+| 1        |
+| 2        |
+| 3        |
+| 4        |
+| 5        |
+| 6        |
+| 7        |
+| 8        |
+| 9        |
+| 0        |
