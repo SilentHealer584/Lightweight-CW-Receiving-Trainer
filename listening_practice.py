@@ -26,7 +26,7 @@ wrong = 1
 count = 1
 
 while True:
-    opt = input("WHat letters to include ? ( @ for whole alphabet )\n List : ")
+    opt = input("\nWhat letters to include ? ( @ for whole alphabet )\n List : ")
     if opt=="@":
         pass
     else:
