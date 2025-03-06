@@ -13,7 +13,7 @@
 Some settings such as WPM or volume can be adjusted in the script directly.
 At the moment the script does NOT have an exit condition therefore has to be forcibly terminated.
 
-
+<!--
 ## Letters
 | Alphabet      | Morse             | Alphabet      | Morse             | Alphabet      | Morse             | Alphabet      | Morse             |
 | ------------- | ----------------- | ------------- | ----------------- | ------------- | ----------------- | ------------- | ----------------- |
@@ -32,3 +32,4 @@ At the moment the script does NOT have an exit condition therefore has to be for
 | 1        | .---- | 4        | ....- | 7        | --... | 0        | ----- |
 | 2        | ..--- | 5        | ..... | 8        | ---.. |          |       |
 | 3        | ...-- | 6        | -.... | 9        | ----. |          |       |
+-->
