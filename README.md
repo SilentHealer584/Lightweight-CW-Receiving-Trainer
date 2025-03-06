@@ -7,7 +7,7 @@
 4. Listen to the communicated letter, then type it.
 5. Repeat!
    
-![carbon (3)](https://github.com/user-attachments/assets/36076872-a67a-4d01-9fc5-9c30fd2f6253)
+![carbon (4)](https://github.com/user-attachments/assets/a02778cf-2773-4b3f-86e5-d446e8c3b6ee)
 
 Some settings such as WPM or volume can be adjusted in the script directly.
 
