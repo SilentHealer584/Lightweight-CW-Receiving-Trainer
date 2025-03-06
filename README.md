@@ -1,5 +1,6 @@
 # Lightweight CW Receiving Trainer
 
+## Letters
 | Alphabet      | Morse             | Alphabet      | Morse             |
 | ------------- | ----------------- | ------------- | ----------------- |
 | A             | **.-**            | N             | **-.**            |
@@ -16,6 +17,8 @@
 | L             | **.-..**          | Y             | **-.--**          |
 | M             | **--**            | Z             | **--..**          |
 
+
+## Numbers
 | Numbers  | Morse |
 | -------- | ----- |
 | 1        | .---- |
