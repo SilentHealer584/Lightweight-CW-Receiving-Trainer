@@ -1,5 +1,15 @@
 # Lightweight CW Receiving Trainer
 
+##How to use it?
+1. Download the script and save it.
+2. Run the script
+3. List the letter you want to train on (Or type @ for the whole alphabet)
+4. Train!
+
+
+- At the moment the script does NOT have an exit condition therefore has to be forcibly terminated.
+
+
 ## Letters
 | Alphabet      | Morse             | Alphabet      | Morse             | Alphabet      | Morse             | Alphabet      | Morse             |
 | ------------- | ----------------- | ------------- | ----------------- | ------------- | ----------------- | ------------- | ----------------- |
