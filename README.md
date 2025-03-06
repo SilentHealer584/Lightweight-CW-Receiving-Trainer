@@ -1,6 +1,6 @@
 # Lightweight CW Receiving Trainer
 
-##How to use it?
+## How to use it?
 1. Download the script and save it.
 2. Run the script
 3. List the letter you want to train on (Or type @ for the whole alphabet)
